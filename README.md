@@ -2,6 +2,8 @@
 
 pip install -r requirements.txt
 
+
+
 #run script
 
 uvicorn api:app --reload --port 8001    
@@ -10,6 +12,8 @@ uvicorn api:app --reload --port 8001
 #url
 
 http://127.0.0.1:8001/atapyface/
+
+
 
 #payload
 
